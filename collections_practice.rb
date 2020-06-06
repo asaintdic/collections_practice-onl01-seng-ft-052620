@@ -19,16 +19,7 @@ def reverse_array(array)
    array.reverse
 end
 
-#def kesha_maker
-#  i = 0
- # while i < array.length
-  #  yield array[i]
-  #  i = i + 1
- # end
- # array
-#end
-#kesha = ["blake", "ashley","scott"]
-#kesha_maker(["blake", "ashley","scott"]) do |x| x.gsub(x.length(3), "$")
+
 #end
 
 def find_a(array)
